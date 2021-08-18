@@ -1,0 +1,246 @@
+1  apt install sl
+    2  sl
+    3  apt-get install sl
+    4  clear
+    5  sudo apt install sl
+    6  bind ya.ru
+    7  clear
+    8  ping
+    9  clear
+   10  apt install python~
+   11  apt install python3
+   12  python3
+   13  clear
+   14  dir
+   15  ls
+   16  ll
+   17  ls -l
+   18  ll
+   19  clear
+   20  mkdir home
+   21  ls
+   22  cd home
+   23  touch tt.txt
+   24  ls
+   25  nano tt.txt
+   26  apt install vim
+   27  vim tt.txt
+   28  cat tt.txt
+   29  clear
+   30  sudo apt-get install cmake
+   31  clear
+   32  python3 setup.py install
+   33  wget https://files.pythonhosted.org/packages/05/57/e8a8caa3c89a27f80bc78da39c423e2553f482a3705adc619176a3a24b36/dlib-19.17.0.tar.gz
+   34  tar -xvzf dlib-19.17.0.tar.gz
+   35  sl
+   36  ll
+   37  ls
+   38  cd dlib-19.17.0/
+   39  python3 setup.py install
+   40  apt-get install cmake
+   41  clear
+   42  exit() exit()
+   43  exit
+   44  sudo apt-get install python3.6
+   45  sudo apt-get install cmake
+   46  wget https://files.pythonhosted.org/packages/05/57/e8a8caa3c89a27f80bc78da39c423e2553f482a3705adc619176a3a24b36/dlib-19.17.0.tar.gz
+   47  tar -xvzf dlib-19.17.0.tar.gz
+   48  cd dlib-19.17.0/
+   49  sudo python3 setup.py installsudo apt-get install cmake
+   50  wget https://files.pythonhosted.org/packages/05/57/e8a8caa3c89a27f80bc78da39c423e2553f482a3705adc619176a3a24b36/dlib-19.17.0.tar.gz
+   51  tar -xvzf dlib-19.17.0.tar.gz
+   52  cd dlib-19.17.0/
+   53  sudo python3 setup.py install
+   54  apt install python3
+   55  sudo apt-get install cmake
+   56  apt-get update update
+   57  apt-get update
+   58  sudo apt-get install cmake
+   59  sudo apt-get install scapy
+   60  tar xzf WebSploit\Framework\V.X.X.X.tar.gz
+   61  hcitool scan
+   62  apt install bluez
+   63  hcitool scan
+   64  apt install bluez
+   65  apt-get install blueman
+   66  hcitool scan
+   67  ll2ping
+   68  l2ping
+   69  apt install l2ping
+   70  apt install python2
+   71  apt install python
+   72  pip2 install scapy
+   73  apt install python-pip
+   74  pip2 install scapy
+   75  apt install python-pip
+   76  fix-missing
+   77  --fix-missing
+   78  apt-get update
+   79  apt install python-pip
+   80  pip3 install scapy
+   81  pip2 install scapy
+   82  git clone https://github.com/The404Hacking/websploit.git
+   83  cd websploit
+   84  chmod 777 * websploit.py
+   85  chmod 777 *websploit.py
+   86  python2 websploit.py
+   87  set bdaddr
+   88  help
+   89  hciconfig hci0 up
+   90  apt install bluez
+   91  hciconfig hci0 up
+   92  hciconfig hci0 up
+   93  hcitool scan
+   94  cd websploit
+   95  chmod 777 *websploit.py
+   96  python2 websploit.py
+   97  ls mkdir /folder
+   98  mkdir /folder
+   99  cd /folder
+  100  ls
+  101  mkdir /mnt/c/Users/kopko/OneDrive/Рабочий стол/folder
+  102  mkdir /mnt/c/Users/kopko/OneDrive/folder
+  103  cd /mnt/c/Users/kopko/OneDrive/folder
+  104  > NewFile.txt.
+  105  > NewFile.txt
+  106  git init
+  107  git status
+  108  ls
+  109  gcc
+  110  gcc grep
+  111  gcc -v
+  112  help
+  113  wr
+  114  gcc -Wall infilename.c -o outfilename.o
+  115  fl
+  116  cd
+  117  gcc hello.c
+  118  gcc hello.txt
+  119  ./hello.txt
+  120  ./hello.c
+  121  hello.c
+  122  gcc ./hello.c
+  123  gcc hello.c
+  124  cd Desktop
+  125  cd Desktop/
+  126  cd
+  127  help
+  128  cd C:/
+  129  C:/
+  130  C
+  131  cd C
+  132  ./hello
+  133  ./hello.c
+  134  help
+  135  cd C:\cv-resources
+  136  cd \cv-resources
+  137  lf
+  138  ls
+  139  cd home
+  140  gedit hello.c
+  141  apt install gedit
+  142  gedit
+  143  apt install gedit
+  144  apt-get update
+  145  apt install gedit
+  146  y
+  147  apt install gedit
+  148  gedit
+  149  gedit hello.c
+  150  gedit
+  151  cd /mnt/c/source
+  152  cd /mnt/c/
+  153  gcc hello.c
+  154  cd /mnt/c/users/kopko
+  155  gcc hello.c
+  156  gxx a.out
+  157  gcc a.out
+  158  gcc hello.c
+  159  gcc hello.c -o text
+  160  gcc hello.c -o test.exe
+  161  gcc hello.c
+  162  a.out
+  163  ./a.out
+  164  $ssh -X relisqu@osc.edu.innopolis.university
+  165  $ssh -x relisqu@osc.edu.innopolis.university
+  166  $ssh
+  167  $ssh -X
+  168  $ssh help
+  169  @ssh
+  170  $ssh
+  171  $ssh -X relisqu@osc-123.edu.innopolis.ru
+  172  $ssh X relisqu@osc-123.edu.innopolis.ru
+  173  $ssh -X relisqu@osc-123.edu.innopolis.ru
+  174  whoami
+  175  man whoami
+  176  head
+  177  grep *
+  178  grep test
+  179  grep text.txt
+  180  grep *.txt
+  181  ls
+  182  .home
+  183  /home
+  184  cd C:\Users\kopko\Desktop\Ubunty
+  185  cd C:/Users/kopko/Desktop/Ubunty
+  186  cd C:/Users/kopko/Desktop/
+  187  cd/Users/kopko/Desktop/
+  188  cd /Users/kopko/Desktop/
+  189*
+  190  ls
+  191  man ls
+  192  mkdir ubunty
+  193  mkdir ubuntu
+  194  ls
+  195  cd /ubuntu/
+  196  cd /ubuntu
+  197  cd ~/ubuntu
+  198  cd ~/Desktop/Ubunty
+  199  cd ~
+  200  mkdir ~/week1
+  201  cd ~/week1
+  202  ls /Desktop
+  203  ls C:\Users\kopko\Desktop\Ubunty
+  204  ls C:/Users/kopko/Desktop/
+  205  sd ..
+  206* cd ..
+  207  ls
+  208*
+  209  ls ~/Users/kopko/Desktop/
+  210  mkdir ~/week1
+  211  cd ~/week1
+  212  ls > ex1.txt
+  213  pwd
+  214  gedit ex1.txt
+  215  gedit ~/ex1.txt
+  216  ls > ex1.txt
+  217  pwd
+  218  cat> ex1.txt
+  219  cat ex1.txt
+  220  ls > ex1.txt
+  221  cat ex1.txt
+  222  ls ..> ex1.txt
+  223  cat ex1.txt
+  224  ls ....> ex1.txt
+  225* ls> ex1.txt
+  226  cat ex1.txt
+  227  ls ../home> ex1.txt
+  228  cat ex1.txt
+  229  ls ....> ex1.txt
+  230  ls ../..> ex1.txt
+  231  cat ex1.txt
+  232  ls ../../usr> ex1.txt
+  233  cat ex1.txt
+  234  ls ../../usr/bin| grep *.txt > ex1.txt
+  235  cat ex1.txt
+  236  ls ../../usr/bin > ex1.txt
+  237  cat ex1.txt
+  238  ls ../../usr/bin | grep yes.*> ex1.txt
+  239  cat ex1.txt
+  240  ls ../../usr/bin | grep gcc.*> ex1.txt
+  241  cat ex1.txt
+  242  ls ../../usr/bin | grep gcc.* | sort> ex1.txt
+  243  cat ex1.txt
+  244  ls ../../usr/bin | grep gcc.* | sort -r> ex1.txt
+  245  cat ex1.txt
+  246  history> ex2.txt

@@ -1,0 +1,14 @@
+Exercise1:
+ls ../../usr/bin | grep gcc.* | sort -r> ex1.txt
+
+Exercise2:
+history > ex2.txt
+
+Exercise3:
+nano ~/ex3.sh
+sh ~/ex3.sh
+
+Exercise4:
+nano ~/main.c
+gcc ~/main.c -o ex4
+./ex4

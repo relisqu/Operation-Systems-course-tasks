@@ -1,5 +1,0 @@
-for f in {1..$(ls -1)}
-do
-./ex1
-done
-OUTPUT=$(ls -1)

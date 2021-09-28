@@ -1,6 +1,6 @@
 #include <pthread.h>
 #include <stdio.h>
-#define shelf_size 15
+#define shelf_size 5
 char products[shelf_size];
 int  consumer,producer, pos;
 long long int timer;

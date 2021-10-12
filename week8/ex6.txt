@@ -1,0 +1,4 @@
+We have 16 bit virtual machine -> it will have 2^16 bytes in adressable machine
+Pages are 8 Kb = they will take 2^13 bytes
+So we can store 2^(16-13) = 8 entries in a single-level linear page table.
+

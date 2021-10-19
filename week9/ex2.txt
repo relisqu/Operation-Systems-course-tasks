@@ -1,0 +1,6 @@
+To increase hit we need to refer to pages already existing in frames.
+To decrease hit rate we should refer to page not existing in page frames: for example, previously removed from page frames or added there first time.
+
+Let us consider 3 frames, 1 page per tick:
+  Max hits: 1 2 3 1 2 3 1 2 3...(each time referred page exists in page frame)
+  Min hits: 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6...(there is no referred pages in page frame at any moment of time)

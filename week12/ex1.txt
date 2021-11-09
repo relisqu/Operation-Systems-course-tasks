@@ -1,5 +1,5 @@
 dma1 represents direct memory access controllers. Using it a device can gain temporary access to a specific range of the ram memory.
-pic1 represents the port for internet. It allows manage hardware interrupts and send them to the appropriate system interrupt.
+pic1 represents the port for interrupts. It allows manage hardware interrupts and send them to the appropriate system interrupt.
 timer1 represents a 16-bit timer hardware block. It is used to schedule execution of a function at a particular time in the future. 
 
 0000-0cf7 : PCI Bus 0000:00

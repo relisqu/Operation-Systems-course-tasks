@@ -1,0 +1,14 @@
+1. Recovery
+This approach checks if deadlock occured, and in the case of deadlock applies some of the recovery methods to the 
+system to get rid of deadlock. It deacreases performance, as checks for deadlocks constantly and the work/data could be lost when processes must be aborted or have their resources preempted. 
+2. Avoidance
+In order to avoid deadlocks, the operating system evaluates whether the system is in a safe or unsafe state at each step. 
+The process is repeated until the system is in a safe state. Once the system moves to unsafe state, 
+the OS has to backtrack one step. It requires more information 
+about each process, AND leads to low device utilization.
+3. Prevention
+Deadlock happens only when Mutual Exclusion, hold and wait, No preemption and circular wait holds simultaneously. 
+By violating one of the four conditions at any time, the deadlock can never occur in the system.
+
+Deadlock Prevention is better than other strategies, as it needs less information about processes. 
+The recovery is the most ineffective of all three strategies.
